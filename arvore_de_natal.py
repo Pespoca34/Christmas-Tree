@@ -10,5 +10,4 @@ def main():
 
     arvore_natal(num)
 
-if __name__ == '__main__':
-    main()
+main()
